@@ -1,4 +1,6 @@
 ## Millipede.JSON 
+[![Build Status](https://primesoftware.visualstudio.com/Millipede/_apis/build/status/MillipedeTeam.Millipede.JSON?branchName=master)](https://primesoftware.visualstudio.com/Millipede/_build/latest?definitionId=4&branchName=master)
+
 Open source, high-performance JSON framework for .NET.
 
 ## Description
